@@ -8,6 +8,5 @@ tailwind css-> v3.4.17
 https://v3.tailwindcss.com/docs/installation
 -------------------------------------------------------------------------------------------
 
-npm run tw
-("tw":"npx tailwindcss -i ./static/src/input.css -o ./static/css/output.css --watch")
+
 
