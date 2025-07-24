@@ -8,7 +8,7 @@ from langchain.chains import LLMChain
 app = Flask(__name__)
 
 template = PromptTemplate.from_template(
-    "Generate 2 questions on topic : {topic} ,each question having 4 options and one correct answer."
+    "Generate 2 questions on topic : {topic}"
 )
 
 
